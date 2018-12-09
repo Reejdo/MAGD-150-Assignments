@@ -1,5 +1,5 @@
 # MAGD150-Assignments
-## In this portfolio, there are five different assignments uploaded from my MAGD 150 semeseter. The assignments uploaded are the first five that I created. Following this, I will explain the function of each sketch assignment.
+## In this repository, there are five different assignments uploaded from my MAGD 150 semeseter. The assignments uploaded are the first five that I created. Following this, I will explain the function of each sketch assignment.
 
 ### Assignment One
 The [first assignment](https://github.com/Reejdo/MAGD-150-Assignments/blob/gh-pages/AssignmentOne.pde) had the class learning how to use processing. The theme was to draw anything relating to space. My assignment consisted of several planets and several different stars. This sketch was the starting point for me, and it is mainly a showcase of the different initial elements that I had to learn which were essential to processing; Learning how to initialize the sketch and how to draw in the sketch. 

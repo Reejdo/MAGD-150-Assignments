@@ -1,4 +1,4 @@
-# MAGD-150-Assignments
+# MAGD150-Assignments
 ## In this portfolio, there are five different assignments uploaded from my MAGD 150 semeseter. The assignments uploaded are the first five that I created. Following this, I will explain the function of each sketch assignment.
 
 ### Assignment One
